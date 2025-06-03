@@ -111,7 +111,7 @@ Track your progress across CTFs, challenge sites, pro labs, and coding platforms
 **Latest Completed:**  
 **Progress:** 
 
-### [Hacker101](https://www.hackerone.com/hackers/hacker101)
+### [Hacker101](https://ctf.hacker101.com/)
 **Purpose:** Bug bounty & web security labs  
 **Latest Completed:**  
 **Progress:** 
