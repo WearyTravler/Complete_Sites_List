@@ -4,193 +4,207 @@ Track your progress across CTFs, challenge sites, pro labs, and coding platforms
 
 ---
 
+## ⚔️ Latest Pwned Machines
+
+| Date       | Platform       | Machine/Challenge Name | Difficulty | Notes |
+|------------|----------------|------------------------|------------|-------|
+|            |                |                        |            |       |
+
+---
+
 ## 📦 General
 
-### HackTheBox
+### [HackTheBox](https://www.hackthebox.com/)
 **Purpose:** Wide range of realistic hacking labs (Windows, Linux, AD, Web, Reversing, etc.)  
-**Latest Completed:** Nibbles  
-**Progress:** 35%
+**Latest Completed:**  
+**Progress:** 
 
-### TryHackMe
+### [TryHackMe](https://tryhackme.com/)
 **Purpose:** Beginner to intermediate labs, great structured learning paths  
-**Latest Completed:** Pre-Security Path  
-**Progress:** 50%
+**Latest Completed:**  
+**Progress:** 
 
-### VulnLab
+### [VulnLab](https://vulnlab.com/)
 **Purpose:** Realistic enterprise network simulations and pentesting labs  
-**Latest Completed:** VulnMachine01  
-**Progress:** 10%
+**Latest Completed:**  
+**Progress:** 
 
-### Offensive Pro-Labs (OffSec)
+### [Offensive Pro-Labs](https://www.offsec.com/)
 **Purpose:** OSCP, OSEP, and other OffSec certification labs  
-**Latest Completed:** OSCP Buffer Overflow Prep  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### letsdefend.io
+### [LetsDefend](https://letsdefend.io/)
 **Purpose:** Blue team SOC analyst simulations (SIEM, EDR, DFIR)  
-**Latest Completed:** Malware Investigation 101  
-**Progress:** 20%
+**Latest Completed:**  
+**Progress:** 
 
-### HackerViser
+### [HackerViser](https://hackerviser.com/)
 **Purpose:** Blue team defense, logs, threat hunting, DFIR labs  
-**Latest Completed:** Incident 1  
-**Progress:** 10%
+**Latest Completed:**  
+**Progress:** 
 
 ---
 
 ## 🔐 Crypto
 
-### CryptoHack
+### [CryptoHack](https://cryptohack.org/)
 **Purpose:** Applied cryptography challenges with increasing difficulty  
-**Latest Completed:** Modular Arithmetic 3  
-**Progress:** 12%
+**Latest Completed:**  
+**Progress:** 
 
-### MysteryTwister (mysterytwister.org)
+### [MysteryTwister](https://www.mysterytwister.org/)
 **Purpose:** Classical and modern cryptography puzzles  
-**Latest Completed:** M-129  
-**Progress:** 7%
+**Latest Completed:**  
+**Progress:** 
 
 ---
 
 ## 🧬 Binary Exploitation / Reversing
 
-### pwnable.kr
+### [pwnable.kr](https://pwnable.kr/)
 **Purpose:** pwn and reverse engineering challenges in Linux  
-**Latest Completed:** fd  
-**Progress:** 15%
+**Latest Completed:**  
+**Progress:** 
 
-### pwnable.tw
+### [pwnable.tw](https://pwnable.tw/)
 **Purpose:** Harder pwn/binary challenges from Taiwan’s CTF team  
-**Latest Completed:** Start  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### reversing.kr
+### [reversing.kr](http://reversing.kr/)
 **Purpose:** Reverse engineering CTF-style challenges  
-**Latest Completed:** Reversing Challenge 2  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### SmashTheStack
+### [SmashTheStack](http://smashthestack.org/)
 **Purpose:** Live shell wargames with multiple levels (stack, heap, format strings)  
-**Latest Completed:** Amateria Level 1  
-**Progress:** 10%
+**Latest Completed:**  
+**Progress:** 
 
-### io.netgarage.org
+### [IO NetGarage](https://io.netgarage.org/)
 **Purpose:** Exploit development and binary reversing levels  
-**Latest Completed:** level01  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### 0xf.at/level
+### [0xf.at](https://0xf.at/level/)
 **Purpose:** Wargames focused on binary exploitation  
-**Latest Completed:** level00  
-**Progress:** 2%
+**Latest Completed:**  
+**Progress:** 
 
 ---
 
 ## 🌐 Web Security
 
-### root-me.org
+### [Root-Me](https://www.root-me.org/)
 **Purpose:** Hundreds of web, network, crypto, reversing challenges  
-**Latest Completed:** Web: SQLi – Simple  
-**Progress:** 30%
+**Latest Completed:**  
+**Progress:** 
 
-### ringzer0ctf.com
+### [RingZer0CTF](https://ringzer0ctf.com/)
 **Purpose:** Crypto, reversing, web, and stego-based challenges  
-**Latest Completed:** Hash Challenge 5  
-**Progress:** 8%
+**Latest Completed:**  
+**Progress:** 
 
-### w3challs.com
+### [W3Challs](https://w3challs.com/)
 **Purpose:** Web security, stego, crypto, and network challenges  
-**Latest Completed:** Web: Level 1  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### hackerone.com/hackers/hacker101
+### [Hacker101](https://www.hackerone.com/hackers/hacker101)
 **Purpose:** Bug bounty & web security labs  
-**Latest Completed:** Petshop  
-**Progress:** 15%
+**Latest Completed:**  
+**Progress:** 
+
+### [PentesterLab](https://pentesterlab.com/)
+**Purpose:** Web app hacking training with certificates for real-world pentesting scenarios  
+**Latest Completed:**  
+**Progress:** 
+
 
 ---
 
 ## 🧠 CTF Practice & Aggregators
 
-### CTFTime.org
+### [CTFTime](https://ctftime.org/)
 **Purpose:** Track live and historical CTF competitions  
-**Latest Completed:** Participated in PicoCTF 2024  
-**Progress:** N/A (event-based)
+**Latest Completed:**  
+**Progress:** 
 
-### picoCTF
+### [picoCTF](https://picoctf.org/)
 **Purpose:** Beginner to intermediate CTF challenges from CMU  
-**Latest Completed:** Binary Exploitation: Overflow 1  
-**Progress:** 40%
+**Latest Completed:**  
+**Progress:** 
 
-### WeChall.net
+### [WeChall](https://www.wechall.net/challs)
 **Purpose:** Aggregate challenge site progress across many platforms  
-**Latest Completed:** Linked HTB + CryptoHack  
-**Progress:** 15%
+**Latest Completed:**  
+**Progress:** 
 
-### CTF101.org
+### [CTF101](https://ctf101.org/)
 **Purpose:** Learn how to CTF (writeups + intro challenges)  
-**Latest Completed:** Basics of Encoding  
-**Progress:** 100% (theory)
+**Latest Completed:**  
+**Progress:** 
 
-### CTFlearn.com
+### [CTFLearn](https://ctflearn.com/)
 **Purpose:** Community-driven CTF challenge platform  
-**Latest Completed:** Caesar Cipher  
-**Progress:** 20%
+**Latest Completed:**  
+**Progress:** 
 
-### mod-x.co.uk
+### [Mod-X](https://www.mod-x.co.uk/main.php)
 **Purpose:** CTF-style challenges from OSINT to exploitation  
-**Latest Completed:** Level 2  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### pwnadventure.com
+### [PwnAdventure](https://pwnadventure.com/)
 **Purpose:** Multiplayer 3D CTF game (binary exploitation and RE)  
-**Latest Completed:** Opening Puzzle  
-**Progress:** 3%
+**Latest Completed:**  
+**Progress:** 
 
-### UnderTheWire.tech
+### [UnderTheWire](https://underthewire.tech/)
 **Purpose:** Windows-based PowerShell CTF wargame  
-**Latest Completed:** Empire Level 2  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### 247ctf.com
+### [247CTF](https://247ctf.com/dashboard)
 **Purpose:** Active live scoreboard with daily reset CTFs  
-**Latest Completed:** Crypto Puzzle 1  
-**Progress:** 2%
+**Latest Completed:**  
+**Progress:** 
 
 ---
 
 ## 🧮 Programming & Logic
 
-### HackerRank
+### [HackerRank](https://www.hackerrank.com/)
 **Purpose:** Practice coding/data structures & algorithms  
-**Latest Completed:** 30 Days of Code - Day 5  
-**Progress:** 15%
+**Latest Completed:**  
+**Progress:** 
 
-### LeetCode
+### [LeetCode](https://leetcode.com/)
 **Purpose:** Interview prep + algorithm training  
-**Latest Completed:** Two Sum  
-**Progress:** 10%
+**Latest Completed:**  
+**Progress:** 
 
-### CodeChef
+### [CodeChef](https://www.codechef.com/)
 **Purpose:** Competitive programming contests  
-**Latest Completed:** Practice Challenge - Beginner  
-**Progress:** 5%
+**Latest Completed:**  
+**Progress:** 
 
-### CodeWars
+### [CodeWars](https://www.codewars.com/)
 **Purpose:** Code katas (Python, JS, more) for sharpening skills  
-**Latest Completed:** 7kyu: Convert boolean to string  
-**Progress:** 12%
+**Latest Completed:**  
+**Progress:** 
 
 ---
 
-## 🛠️ Other Noteworthy (Add More As Needed)
+## 🛠️ Other Noteworthy
 
-### PentesterLab
+### [PentesterLab](https://pentesterlab.com/)
 **Purpose:** Web app hacking, certificates for pentesting fundamentals  
-**Latest Completed:** Introduction Badge  
-**Progress:** 15%
+**Latest Completed:**  
+**Progress:** 
 
-### HackThisSite.org
+### [HackThisSite](https://www.hackthissite.org/)
 **Purpose:** Classic CTF site with missions (web, app, logic)  
-**Latest Completed:** Basic Mission 3  
-**Progress:** 20%
+**Latest Completed:**  
+**Progress:** 
